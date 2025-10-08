@@ -1,13 +1,4 @@
 {
-  "version": 2, //1.0.2
-  "active_events": [
-    {
-      "id": "halloween_2025",
-      "name": "Halloween 2025",
-      "start": "2025-10-25T00:00:00Z",
-      "end": "2025-11-05T00:00:00Z",
-      "reward_file": "rewards/halloween_2025.json"
-    }
-  ]
-
+  "version": "1.0.1",
+  "current_event": "Halloween"
 }
