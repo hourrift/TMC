@@ -6,17 +6,18 @@
   "price_u_g": 20,
   "price_r_g": 40,
   "price_sr_g": 80,
-  "price_ssr_g": 200,
+  "price_ssr_g": 300,
   
   "price_c_holo": 1000,
   "price_u_holo": 1500,
   "price_r_holo": 3000,
   "price_sr_holo": 5000,
-  "price_ssr_holo": 10000,
+  "price_ssr_holo": 12000,
   
   "price_snovy_de": 10743,
   "price_niona_of": 16720
 }
+
 
 
 
