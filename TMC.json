@@ -2,21 +2,13 @@
   "version": "1.2",
   "current_event": "Halloween",
   
-  "price_c_g": 15,
-  "price_u_g": 20,
-  "price_r_g": 40,
-  "price_sr_g": 80,
-  "price_ssr_g": 300,
-  
   "price_c_holo": 1000,
   "price_u_holo": 1500,
   "price_r_holo": 4000,
   "price_sr_holo": 8000,
-  "price_ssr_holo": 12000,
-  
-  "price_snovy_de": 10743,
-  "price_niona_of": 16720
+  "price_ssr_holo": 12000
 }
+
 
 
 
