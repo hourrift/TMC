@@ -1,7 +1,6 @@
 {
   "version": "1.5",
   "current_event": "Halloween",
-  "host_cc_pick": "test",
   
   "price_1_holo": 1015,
   "price_2_holo": 1005,
@@ -36,6 +35,7 @@
 
 
 }
+
 
 
 
